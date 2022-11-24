@@ -58,6 +58,7 @@ header .inner {
 .visual img {
   height: 600px;
   position:absolute;
+  left: 5%;
   bottom: 0;
 } 
 .visu_txt{
