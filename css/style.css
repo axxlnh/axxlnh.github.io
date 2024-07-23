@@ -285,6 +285,7 @@ ul.imgs li{
   border-radius: 50%;
   background-color: #ccc;
   margin-bottom:23px;
+  overflow:hidden;
 }
 
 .dep05 .img_wrap img {
